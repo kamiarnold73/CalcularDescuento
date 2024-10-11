@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularDescuento", "CalcularDescuento\CalcularDescuento.csproj", "{8B6AE6BC-DAD4-44CC-89BB-C904F43B574D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6AE6BC-DAD4-44CC-89BB-C904F43B574D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6AE6BC-DAD4-44CC-89BB-C904F43B574D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6AE6BC-DAD4-44CC-89BB-C904F43B574D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6AE6BC-DAD4-44CC-89BB-C904F43B574D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06A3388-DF3E-421A-B4E9-0788B5FF7634}
+	EndGlobalSection
+EndGlobal
